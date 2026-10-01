@@ -1,0 +1,576 @@
+{
+  "board": {
+    "url": "https://www.pinterest.com/pinterest/recipe-for-the-perfect-pasta-night/",
+    "board_id": "pinterest_recipe-for-the-perfect-pasta-night",
+    "source": "rss"
+  },
+  "run": {
+    "run_id": "fb98c9e6d1d7",
+    "provider": "local",
+    "model": null,
+    "generated_at": "2026-10-01T18:05:59+00:00"
+  },
+  "metrics": {
+    "pins_fetched": 25,
+    "pins_analyzed": 25,
+    "k": 2,
+    "silhouette": 0.2064,
+    "k_scores": {
+      "2": 0.2064,
+      "3": 0.1371,
+      "4": 0.1391,
+      "5": 0.1817,
+      "6": 0.1383,
+      "7": 0.1261,
+      "8": 0.0542
+    }
+  },
+  "clusters": [
+    {
+      "cluster_id": "cluster_0",
+      "theme_label": "Energetic · Eclectic",
+      "size": 18,
+      "cohesion": 0.8085,
+      "dominant_palette": [
+        "#5D3118",
+        "#8F7058",
+        "#C8A579",
+        "#D8D1C9",
+        "#C07721"
+      ],
+      "distinctive_tags": [
+        "energetic",
+        "eclectic",
+        "grandmillennial",
+        "food photography",
+        "mid-century modern"
+      ],
+      "strategy": null,
+      "pins": [
+        {
+          "id": "424605071145769687",
+          "title": "For 𝗜𝗻𝗴𝗿𝗲𝗱𝗶𝗲𝗻𝘁𝘀 & 𝗣𝗥𝗘𝗣𝗔𝗥𝗔𝗧𝗜𝗢𝗡 👇 Please check the link: https://balmayre.wixsite.com/balmayre/post/roasted-garlic-tomato-pasta",
+          "image_url": "https://i.pinimg.com/736x/99/ff/1b/99ff1bb585bf11dafae533d5f5de5710.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145769687/",
+          "mood": "energetic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "modern farmhouse",
+            "mid-century modern",
+            "maximalist"
+          ],
+          "palette": [
+            "#D4C8C5",
+            "#673617",
+            "#946F53",
+            "#A44D14",
+            "#BB9C8B"
+          ]
+        },
+        {
+          "id": "424605071145769694",
+          "title": "This is one of my favorite pasta recipes to make during the week. It's rich, creamy, and the definition of comfort food. The best part is you'll have plenty of leftovers for the rest of the week!",
+          "image_url": "https://i.pinimg.com/736x/1f/52/43/1f5243cd9ffd33dd0fffabb118fdb9ef.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145769694/",
+          "mood": "luxurious",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "modern farmhouse",
+            "earthy natural",
+            "maximalist"
+          ],
+          "palette": [
+            "#89837C",
+            "#866531",
+            "#C79B53",
+            "#513716",
+            "#D8C7A9"
+          ]
+        },
+        {
+          "id": "424605071145769678",
+          "title": null,
+          "image_url": "https://i.pinimg.com/736x/fe/a3/17/fea317da6efb3d6ee6ee94e6d882e756.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145769678/",
+          "mood": "energetic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "earthy natural",
+            "grandmillennial",
+            "minimalist"
+          ],
+          "palette": [
+            "#C88320",
+            "#785022",
+            "#987958",
+            "#D8A767",
+            "#E9E0CE"
+          ]
+        },
+        {
+          "id": "424605071145770204",
+          "title": "200+ vegan recipes, all in one cookbook! 🥑 Delicious, beginner-friendly & fully plant-based. 👀 Limited-time price — link in bio! #PastaRecipe #ComfortFood #EasyDinner Credit To @alfiecooks_ | TikTok",
+          "image_url": "https://i.pinimg.com/736x/10/77/de/1077de997c8d81631ccab796b23c4037.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145770204/",
+          "mood": "fresh",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "earthy natural",
+            "minimalist",
+            "eclectic"
+          ],
+          "palette": [
+            "#4F3314",
+            "#835823",
+            "#CDD0D1",
+            "#C08733",
+            "#A09E9B"
+          ]
+        },
+        {
+          "id": "424605071145777532",
+          "title": "✨Rina’s Capriccio✨ - Recipe from @pastagrannies is a classic baked pasta from Romagna that is made of fresh pasta, a creamy spinach and ricotta filling, prosciutto, béchamel, and tomato sauce, all baked until golden and bubbling. Honestly this recipe blew me away it was absolutely perfect and I couldn’t stop eating it. Good quiality ingredients are key and I can only imagine how good Rinas are when she is making them in Italy!! These savory baked pasta rolls are a true labor of love!! Have y...",
+          "image_url": "https://i.pinimg.com/736x/11/66/80/116680bcae381333d58ffb4a291639b4.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145777532/",
+          "mood": "romantic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "eclectic",
+            "grandmillennial",
+            "maximalist"
+          ],
+          "palette": [
+            "#CACECB",
+            "#856E51",
+            "#A49987",
+            "#71320F",
+            "#2B0E15"
+          ]
+        },
+        {
+          "id": "424605071145769688",
+          "title": "This angel hair pasta with fresh tomatoes, garlic, and basil is one of those recipes Louise and I turn to again and again—especially on busy summer nights when we want something light, healthy, and bursting with flavor 🍅.",
+          "image_url": "https://i.pinimg.com/736x/5b/83/82/5b8382cf36abc56bf9d29b76d6413a9a.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145769688/",
+          "mood": "energetic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "eclectic",
+            "earthy natural",
+            "minimalist"
+          ],
+          "palette": [
+            "#99290E",
+            "#D05119",
+            "#5B1F08",
+            "#DD9741",
+            "#ECD59A"
+          ]
+        },
+        {
+          "id": "424605071145770159",
+          "title": "lasagna soup recipe 🍲😋😋 #LasagnaSoup #SoupRecipes #ComfortFood #ItalianCuisine #PastaSoup #HomemadeSoup #FamilyDinner #OnePotMeal #DeliciousEats #CookingFromScratch",
+          "image_url": "https://i.pinimg.com/736x/79/c9/d7/79c9d747d044369562508647124e8e71.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145770159/",
+          "mood": "luxurious",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "earthy natural",
+            "eclectic",
+            "grandmillennial"
+          ],
+          "palette": [
+            "#EBE7E5",
+            "#9E5814",
+            "#62330B",
+            "#D18322",
+            "#C4A882"
+          ]
+        },
+        {
+          "id": "424605071145770214",
+          "title": "Find my 10-Day Detox Diet plan from the link in bio!📕🔥 Credit to @majasrecipes | TikTok turkish pasta recipe | viral pasta recipe | anna paul recipe | clean eating recipes | healthy pasta ideas | easy healthy meals | detox diet recipes | mediterranean diet meals | quick dinner recipes | healthy comfort food | whole food recipes | gluten free pasta | low calorie pasta | simple healthy dinners | nutritious pasta dishes | turkish cuisine | healthy cooking tips | weight loss meals | wholesome recipes | healthy lifestyle meals | pasta meal prep",
+          "image_url": "https://i.pinimg.com/736x/5f/4c/4a/5f4c4a31d259c5633af0f87a5b56d96f.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145770214/",
+          "mood": "energetic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "mid-century modern",
+            "eclectic",
+            "earthy natural"
+          ],
+          "palette": [
+            "#B4ADA2",
+            "#552714",
+            "#CED1D1",
+            "#7D7F85",
+            "#9B6E3D"
+          ]
+        },
+        {
+          "id": "424605071145777538",
+          "title": "This desi masala pasta recipe brings together classic Italian pasta with bold Indian spices for a flavorful fusion dish. The best desi masala pasta recipe uses onions, tomatoes, green chilies, and aromatic spices like garam masala and red chili powder. It’s quick to prepare and perfect for lunch or dinner. The sauce is rich, slightly tangy, and perfectly spiced. You can customize this desi masala pasta recipe with vegetables like capsicum, sweet corn, or carrots. A touch of butter enhances the texture and depth of flavor. Garnishing with fresh coriander adds freshness. This comforting and spicy desi masala pasta recipe is ideal for family meals or casual gatherings.",
+          "image_url": "https://i.pinimg.com/736x/74/c5/cf/74c5cf7386894834c1de0e23474313ac.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145777538/",
+          "mood": "festive",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "earthy natural",
+            "minimalist",
+            "scandinavian"
+          ],
+          "palette": [
+            "#72441A",
+            "#35140B",
+            "#968A82",
+            "#C98718",
+            "#C9BCB1"
+          ]
+        },
+        {
+          "id": "424605071145777530",
+          "title": "Savor the flavors of Italy with this quick and easy one pot Tuscan beef pasta meal. Recipe↙️ 12 oz Campanelle pasta 1 lbs ground beef (80/20) 1 medium onion, diced 6 garlic cloves, minced 2 cups spinach, packed 1/3 cup sun-dried tomatoes, roughly chopped 2 Tbs tomato paste 1 Tbs oil from sun-dried tomatoes 2 Tbs butter 2 cups milk 2 cups beef broth 1 cup Parmesan cheese, freshly grated 2 tsp garlic powder 2 tsp onion powder 2 tsp Italian seasoning 1 tsp paprika 1/2 ps black pepper 2 tsp pink salt 🌟 Explore my New eCookbook with 128 Exclusive Recipes like this One! 📚 Use Code MEALVIRGO for 50% Off. ✅ Link in Bio! 📲",
+          "image_url": "https://i.pinimg.com/736x/fe/5b/bf/fe5bbf94c7c0c6c983afda7eca2c64d6.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145777530/",
+          "mood": "energetic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "earthy natural",
+            "eclectic",
+            "modern farmhouse"
+          ],
+          "palette": [
+            "#DBAC6D",
+            "#B7751D",
+            "#9C7E60",
+            "#593719",
+            "#DBDBDD"
+          ]
+        },
+        {
+          "id": "424605071145804283",
+          "title": "Better than spaghetti with tomato is only spaghetti with tomato eaten by the sea 🍝 inspiring visuals by @carmine.gorrasi",
+          "image_url": "https://i.pinimg.com/736x/d3/d0/f3/d3d0f32180eb6b02de1dbd1595d5af0b.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145804283/",
+          "mood": "energetic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "japandi",
+            "cottagecore",
+            "earthy natural"
+          ],
+          "palette": [
+            "#C18E69",
+            "#915B38",
+            "#5E2110",
+            "#D2B9A7",
+            "#E7E3E0"
+          ]
+        },
+        {
+          "id": "424605071145769723",
+          "title": null,
+          "image_url": "https://i.pinimg.com/736x/df/2b/f9/df2bf9c0e69db7f3431f6ae3fb19693a.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145769723/",
+          "mood": "energetic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "eclectic",
+            "maximalist",
+            "grandmillennial"
+          ],
+          "palette": [
+            "#694A2B",
+            "#BF8D27",
+            "#EDC464",
+            "#9B8A7D",
+            "#DED2C8"
+          ]
+        },
+        {
+          "id": "424605071145769733",
+          "title": "Mix in a bowl: • 2-3 cloves crushed garlic • 1 tsp chilli flakes • lots of good quality olive oil • handful fresh parsley Serve with pasta (cooked in salted water) and make sure to save a cup of the pasta water to mix into the bowl, then top with parmesan and enjoy 🤌🏼 While you’re here, if you have 30 seconds, please visit the link in my bio and vote for me in Fortnum & Mason digital creator awards, I’m up for a nomination alongside incredibly talented creators so it’s mental I’m even nominated but I’ll be taking nonna to the awards ceremony and would be absolutely hilarious if she comes up on stage with me to collect an award 😂",
+          "image_url": "https://i.pinimg.com/736x/62/83/55/6283554a38e8646ff3e45039fc623551.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145769733/",
+          "mood": "luxurious",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "grandmillennial",
+            "modern farmhouse",
+            "maximalist"
+          ],
+          "palette": [
+            "#A07550",
+            "#C8A57C",
+            "#63493C",
+            "#271610",
+            "#DEDBCC"
+          ]
+        },
+        {
+          "id": "424605071145769680",
+          "title": "#food #cooking #dinner #recipe",
+          "image_url": "https://i.pinimg.com/736x/b2/80/82/b2808239fbf55528722adc4f42d8cd5a.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145769680/",
+          "mood": "bold",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "y2k",
+            "mid-century modern",
+            "grandmillennial"
+          ],
+          "palette": [
+            "#2A110B",
+            "#886347",
+            "#CC9F59",
+            "#793719",
+            "#E3C9B1"
+          ]
+        },
+        {
+          "id": "424605071145777567",
+          "title": "✨BRAISED BEEF RAGU✨ Italian-inspired comfort food at its finest! Rich & hearty beef chuck slowly simmers with soffritto veggies, fresh herb, tomatoes, & wine, creating a meltingly tender & boldly flavorful homemade ragu. Toss into pasta, serve with gnocchi or cozy carbs! Perfect for date night or a special occasion meal! Recipe overview below so save this pin for later, or find the full printable recipe on PWWB!👇🏼https://playswellwithbutter.com/beef-ragu/ 3 Tbsp olive oil, divided 2 ½ lbs beef chuck roast, trimmed & cut into 4-6 large pieces 3 large carrots, diced 1 stalk celery, diced 1 large yellow onion, diced 8 cloves garlic, chopped 6 oz tomato paste 1 C dry red wine handful of fresh “poultry herbs” (rosemary, sage, & thyme) 2 bay leaves 1 parmesan rind 28 oz crushed",
+          "image_url": "https://i.pinimg.com/736x/a3/10/ee/a310ee8c72f2a231ed2e753058fa8819.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145777567/",
+          "mood": "bold",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "earthy natural",
+            "modern farmhouse",
+            "grandmillennial"
+          ],
+          "palette": [
+            "#321F1D",
+            "#895931",
+            "#D2A87C",
+            "#848C94",
+            "#E5E0D8"
+          ]
+        },
+        {
+          "id": "424605071145770175",
+          "title": "Which is your favourite? 😍 One filling, 8 ways! I don’t make stuffed pasta often enough these days (parenthood?!), but I’m feeling inspired and wanted to share this visual tutorial on how you can make several different types of stuffed pasta. Some of these do require tools, however plenty of them just need a knife or simple cookie cutter to achieve. One of my favourite tools when making stuffed pasta is a basic cookie cutter, the ones that come with both a sharp and a rounded, smooth edge....",
+          "image_url": "https://i.pinimg.com/736x/cf/24/10/cf24107133d93b9681b66fbae4326fa4.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145770175/",
+          "mood": "playful",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "mid-century modern",
+            "modern farmhouse",
+            "art deco"
+          ],
+          "palette": [
+            "#D1AC75",
+            "#9B7B60",
+            "#7C5218",
+            "#B88B35",
+            "#EED5A5"
+          ]
+        },
+        {
+          "id": "424605071145777716",
+          "title": null,
+          "image_url": "https://i.pinimg.com/736x/ec/58/c3/ec58c3c5fc810d7e2c1c96a1050a863b.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145777716/",
+          "mood": "romantic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "pastel",
+            "whimsical",
+            "modern farmhouse"
+          ],
+          "palette": [
+            "#785A4D",
+            "#8D7E74",
+            "#DCC1AA",
+            "#BA9F89",
+            "#62362E"
+          ]
+        },
+        {
+          "id": "424605071145777674",
+          "title": "Pasta Stripes ✨✨ Beet pasta striped down a basic egg dough for a festive looking pasta :) Happy holidays ! #pastalove #pastatime #homecooking #homemade",
+          "image_url": "https://i.pinimg.com/736x/63/e3/49/63e349ca0ac22f33df93cc513a1594ab.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145777674/",
+          "mood": "energetic",
+          "style": "flat lay",
+          "aesthetic_tags": [
+            "retro 70s",
+            "scandinavian",
+            "mid-century modern"
+          ],
+          "palette": [
+            "#CACDCD",
+            "#A37E57",
+            "#8B403E",
+            "#D8B681",
+            "#69121E"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_1",
+      "theme_label": "French Country · Modern Farmhouse",
+      "size": 7,
+      "cohesion": 0.8421,
+      "dominant_palette": [
+        "#A69481",
+        "#7F5831",
+        "#372316",
+        "#D5C8B4",
+        "#C79754"
+      ],
+      "distinctive_tags": [
+        "french country",
+        "modern farmhouse",
+        "interior design photo",
+        "luxurious",
+        "festive"
+      ],
+      "strategy": null,
+      "pins": [
+        {
+          "id": "424605071145804168",
+          "title": null,
+          "image_url": "https://i.pinimg.com/736x/3f/da/0b/3fda0b786df9cc1fedccc285319e421e.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145804168/",
+          "mood": "luxurious",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "japandi",
+            "modern farmhouse",
+            "earthy natural"
+          ],
+          "palette": [
+            "#AE9577",
+            "#60452B",
+            "#8C7152",
+            "#E2CFB0",
+            "#1F130B"
+          ]
+        },
+        {
+          "id": "424605071145832619",
+          "title": null,
+          "image_url": "https://i.pinimg.com/736x/2f/77/5e/2f775eaeec77d8cbdcbeff77d5426057.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145832619/",
+          "mood": "festive",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "french country",
+            "scandinavian",
+            "bohemian"
+          ],
+          "palette": [
+            "#C59852",
+            "#4A2E13",
+            "#956932",
+            "#231910",
+            "#74491E"
+          ]
+        },
+        {
+          "id": "424605071145832764",
+          "title": null,
+          "image_url": "https://i.pinimg.com/736x/23/e7/32/23e7325112367fac7894a512d72f2e50.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145832764/",
+          "mood": "luxurious",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "modern farmhouse",
+            "french country",
+            "earthy natural"
+          ],
+          "palette": [
+            "#917D6A",
+            "#745744",
+            "#503121",
+            "#BEA384",
+            "#D8CBBF"
+          ]
+        },
+        {
+          "id": "424605071145832766",
+          "title": null,
+          "image_url": "https://i.pinimg.com/736x/84/31/54/843154351ed65a8e314309c94e235f6a.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145832766/",
+          "mood": "romantic",
+          "style": "food photography",
+          "aesthetic_tags": [
+            "french country",
+            "modern farmhouse",
+            "scandinavian"
+          ],
+          "palette": [
+            "#A5978A",
+            "#40210F",
+            "#7E5434",
+            "#CBC0B3",
+            "#CE894E"
+          ]
+        },
+        {
+          "id": "424605071145804280",
+          "title": null,
+          "image_url": "https://i.pinimg.com/736x/76/18/91/7618914ad777c0fa389b1fb643f34639.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145804280/",
+          "mood": "luxurious",
+          "style": "flat lay",
+          "aesthetic_tags": [
+            "quiet luxury",
+            "old money",
+            "modern farmhouse"
+          ],
+          "palette": [
+            "#1E130D",
+            "#523E31",
+            "#B2A593",
+            "#7F6C5C",
+            "#D7D7D3"
+          ]
+        },
+        {
+          "id": "424605071145832774",
+          "title": null,
+          "image_url": "https://i.pinimg.com/736x/f5/74/9d/f5749d25a0f95f3ef694f413bdf89444.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145832774/",
+          "mood": "festive",
+          "style": "interior design photo",
+          "aesthetic_tags": [
+            "french country",
+            "maximalist",
+            "y2k"
+          ],
+          "palette": [
+            "#926121",
+            "#6F3E0F",
+            "#E8C385",
+            "#BB8D44",
+            "#2E1305"
+          ]
+        },
+        {
+          "id": "424605071145769692",
+          "title": "one of my favorite summer traditions: homemade egg pasta with edible florals from the garden + my creamy basil pesto using @californiaoliveranch extra virgin olive oil for the perfect pesto every time !! full recipe on my blog at abrightmoment or comment “recipe” for the direct link :) #summerrecipes #homemadepasta #summerhosting #summergardens #pastarecipes",
+          "image_url": "https://i.pinimg.com/736x/91/27/26/91272664f07e75d85226598e49d3ec0f.jpg",
+          "pin_url": "https://www.pinterest.com/pin/424605071145769692/",
+          "mood": "romantic",
+          "style": "interior design photo",
+          "aesthetic_tags": [
+            "modern farmhouse",
+            "cottagecore",
+            "french country"
+          ],
+          "palette": [
+            "#A89C92",
+            "#C5C6C6",
+            "#855941",
+            "#D4AB73",
+            "#382E2A"
+          ]
+        }
+      ]
+    }
+  ]
+}
