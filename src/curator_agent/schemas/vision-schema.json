@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "vision-schema-v1.1.0",
+  "title": "PinMetadata Vision Extraction Output",
+  "description": "Canonical JSON schema for vision extraction output (CuratorAgent). This is the authoritative contract between the Vision and Embedding stages. Changes to required fields or field types constitute a MAJOR breaking change per constitution.md Principle I.",
+  "version": "1.1.0",
+  "type": "object",
+  "required": [
+    "primary_objects",
+    "color_palette",
+    "aesthetic_tags",
+    "mood",
+    "style_category",
+    "composition_notes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "primary_objects": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "description": "List of primary objects or subjects detected in the image"
+    },
+    "color_palette": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "Hex color code, ideally matching ^#[0-9A-Fa-f]{6}$"
+      },
+      "description": "Dominant colors detected in the image as hex codes"
+    },
+    "aesthetic_tags": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "description": "Descriptive aesthetic keywords for this image"
+    },
+    "mood": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Single mood descriptor for the image (e.g., 'serene', 'energetic', 'nostalgic')"
+    },
+    "style_category": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Visual style label (e.g., 'minimalist', 'bohemian', 'industrial')"
+    },
+    "composition_notes": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Free-text description of composition, framing, and visual structure"
+    },
+    "detected_text": {
+      "type": ["string", "null"],
+      "description": "Any text visible in the image. Null if no text is present."
+    },
+    "font_style": {
+      "type": ["string", "null"],
+      "description": "Single descriptor for the dominant typography style visible in the image (e.g., 'serif editorial', 'bold sans-serif', 'handwritten script'). Null if no text or typography is present."
+    },
+    "visual_quirks": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "description": "Distinctive stylistic techniques or post-processing effects observed (e.g., 'film grain', 'vignette', 'double exposure', 'light leak', 'asymmetric crop', 'duotone'). Empty array if none detected."
+    }
+  }
+}
