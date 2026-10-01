@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "museboard"
+version = "0.2.0"
+description = "Turn a Pinterest board into visual themes, color palettes and a content plan with CLIP embeddings and multimodal LLMs"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Nimra Nayyar" }]
+dependencies = [
+    "click>=8.1",
+    "requests>=2.31",
+    "python-dotenv>=1.0",
+    "jsonschema>=4.21",
+    "numpy>=1.26",
+    "pillow>=10.0",
+    "scikit-learn>=1.4",
+    "faiss-cpu>=1.8",
+    "torch>=2.2",
+    "transformers>=4.40",
+    "google-genai>=1.0",
+    "groq>=0.9",
+    "notion-client>=2.2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.6"]
+
+[project.scripts]
+museboard = "curator_agent.cli:entrypoint"
+
+[project.urls]
+Repository = "https://github.com/nimnay/MuseBoard"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+curator_agent = ["schemas/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 120
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501", "B905"]  # zip(strict=) is noise for equal-length lists built together

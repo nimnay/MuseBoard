@@ -1,0 +1,33 @@
+# Spec-kit / agent security — may contain credentials or auth tokens
+.github/settings.local.json
+
+# Spec-kit internals
+.specify/
+
+# Spec artifacts (opt-in: remove these lines if you want to commit specs)
+specs/
+
+# Secrets
+.env
+
+# Runtime outputs
+cache/
+output/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Editor
+.vscode/settings.json
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
