@@ -11,9 +11,9 @@ specs/
 .env
 
 # Runtime outputs
-cache/
-output/
-logs/
+/cache/
+/output/
+/logs/
 
 # Python
 __pycache__/
